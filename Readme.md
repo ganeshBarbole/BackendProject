@@ -1,0 +1,1 @@
+The project is built using Node.js, Express, and MongoDB to handle requests, manage the database, and create a scalable backend API.
